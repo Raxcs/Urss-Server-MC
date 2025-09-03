@@ -1,0 +1,85 @@
+[21:02:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:02:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:02:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:02:22] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[21:02:22] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.7.10)
+[21:02:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:02:34] [ServerMain/INFO]: Loaded 1407 recipes
+[21:02:34] [ServerMain/INFO]: Loaded 1520 advancements
+[21:02:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:02:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 769.5ms
+[21:02:35] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:02:35] [Server thread/INFO]: Loading properties
+[21:02:35] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:02:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:02:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:02:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:02:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:02:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:02:37] [Server thread/INFO]: Default game type: SURVIVAL
+[21:02:37] [Server thread/INFO]: Generating keypair
+[21:02:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:02:37] [Server thread/INFO]: Using epoll channel type
+[21:02:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:02:37] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:02:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[21:02:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:02:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[21:02:39] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[21:02:40] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:02:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:02:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:02:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:02:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:02:40] [Server thread/INFO]: Preparing level "world"
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:02:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:02:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:02:41] [Server thread/INFO]: Preparing spawn area: 0%
+[21:02:41] [Server thread/INFO]: Preparing spawn area: 2%
+[21:02:42] [Server thread/INFO]: Preparing spawn area: 18%
+[21:02:42] [Server thread/INFO]: Preparing spawn area: 42%
+[21:02:42] [Server thread/INFO]: Time elapsed: 1946 ms
+[21:02:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:02:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:02:43] [Server thread/INFO]: Preparing spawn area: 38%
+[21:02:43] [Server thread/INFO]: Time elapsed: 542 ms
+[21:02:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:02:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:02:44] [Server thread/INFO]: Preparing spawn area: 63%
+[21:02:44] [Server thread/INFO]: Time elapsed: 535 ms
+[21:02:44] [Server thread/INFO]: [spark] Starting background profiler...
+[21:02:45] [Server thread/INFO]: Done preparing level "world" (5.423s)
+[21:02:45] [Server thread/INFO]: Running delayed init tasks
+[21:02:45] [Server thread/INFO]: Done (27.321s)! For help, type "help"
+[21:02:45] [Server thread/INFO]: abbe (/100.114.105.116:57996) lost connection: Disconnected
+[21:02:47] [User Authenticator #0/INFO]: UUID of player abbe is 90da81a5-0a79-3386-afdb-4a5ef29983fa
+[21:02:52] [User Authenticator #0/INFO]: UUID of player Raxcs is 78244d6f-f201-3048-ab62-295282b82866
+[21:02:52] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[21:02:54] [Server thread/INFO]: Raxcs joined the game
+[21:02:54] [Server thread/INFO]: Raxcs[/100.106.102.99:56554] logged in with entity id 14 at ([world]-65.34469787189158, -19.0, 694.0040627861687)
+[21:02:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f8dcb45b-87ab-4a25-8f6e-2844040af0f8, mapped to EnderMan['Enderman'/211, uuid='f8dcb45b-87ab-4a25-8f6e-2844040af0f8', l='ServerLevel[world]', x=-155.48, y=11.00, z=607.53, cpos=[-10, 37], tl=0, v=true], can't add EnderMan['Enderman'/254, uuid='f8dcb45b-87ab-4a25-8f6e-2844040af0f8', l='ServerLevel[world]', x=-179.40, y=-2.00, z=585.50, cpos=[-12, 36], tl=0, v=false]
+[21:02:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d2165515-69e2-4e1f-b48f-1c08d1fe8fba, mapped to Bat['Bat'/252, uuid='d2165515-69e2-4e1f-b48f-1c08d1fe8fba', l='ServerLevel[world]', x=-187.55, y=-37.22, z=800.57, cpos=[-12, 50], tl=0, v=true], can't add Bat['Bat'/265, uuid='d2165515-69e2-4e1f-b48f-1c08d1fe8fba', l='ServerLevel[world]', x=-194.11, y=-28.89, z=790.46, cpos=[-13, 49], tl=0, v=false]
+[21:02:59] [User Authenticator #0/INFO]: UUID of player abbe is 90da81a5-0a79-3386-afdb-4a5ef29983fa
+[21:03:00] [Server thread/INFO]: abbe joined the game
+[21:03:00] [Server thread/INFO]: abbe[/100.114.105.116:57998] logged in with entity id 292 at ([world]179.95331658357594, -38.74779665974627, 365.0430513177498)
+[21:03:00] [User Authenticator #0/INFO]: UUID of player virterex is dbb4aec9-7380-33e7-8280-1990d3a7a054
+[21:03:01] [Server thread/INFO]: virterex joined the game
+[21:03:01] [Server thread/INFO]: virterex[/100.68.97.31:16771] logged in with entity id 327 at ([world]-130.27653260780397, 11.0, 693.42712864991)
+[21:03:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7aa53d35-a9de-41de-9540-4df00d8ceab1, mapped to Bat['Bat'/483, uuid='7aa53d35-a9de-41de-9540-4df00d8ceab1', l='ServerLevel[world]', x=144.29, y=-36.34, z=253.42, cpos=[9, 15], tl=0, v=true], can't add Bat['Bat'/494, uuid='7aa53d35-a9de-41de-9540-4df00d8ceab1', l='ServerLevel[world]', x=143.94, y=-36.51, z=253.32, cpos=[8, 15], tl=0, v=false]
+[21:03:04] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ebaa33e9-e2b9-4f66-ae6b-0f1a568c3646, mapped to Turtle['Turtle'/488, uuid='ebaa33e9-e2b9-4f66-ae6b-0f1a568c3646', l='ServerLevel[world]', x=295.04, y=55.99, z=399.66, cpos=[18, 24], tl=4, v=true], can't add Turtle['Turtle'/596, uuid='ebaa33e9-e2b9-4f66-ae6b-0f1a568c3646', l='ServerLevel[world]', x=306.47, y=58.86, z=449.37, cpos=[19, 28], tl=0, v=false]
+[21:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[21:06:17] [Server thread/INFO]: abbe has made the advancement [Cover Me with Diamonds]
+[21:08:50] [Server thread/INFO]: abbe has made the advancement [Ice Bucket Challenge]
